@@ -20,8 +20,13 @@ Activity 4: Utils.py
 
 
 
-Activity 3: Merge
+Activity 3: Merge conflict
 ![image](https://github.com/tongandrew2/ECE444-F2023-Assignment1/assets/64707450/bfbaf537-d1df-4e39-970f-eeebbccdd3db)
+
+Activity 2: Merge 
+
+![image](https://github.com/tongandrew2/ECE444-F2023-Assignment1/assets/64707450/72bee9dd-df16-4d17-882f-56cb17ae0747)
+
 
 Activity 1: Name addition 
 
